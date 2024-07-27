@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://65.2.191.117:8081/repository/pavani/</url>
+		    <url>http://13.233.101.27:8081/repository/badrirepo/</url>
 		</repository>
   	</distributionManagement>
 	
